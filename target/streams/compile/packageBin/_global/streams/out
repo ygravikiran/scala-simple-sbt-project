@@ -1,9 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging E:\Scala\scala-simple-sbt\target\scala-2.10\hello_2.10-1.0.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Hello$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  E:\Scala\scala-simple-sbt\target\scala-2.10\classes\Hello$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Hello$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  E:\Scala\scala-simple-sbt\target\scala-2.10\classes\Hello$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Hello.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  E:\Scala\scala-simple-sbt\target\scala-2.10\classes\Hello.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
