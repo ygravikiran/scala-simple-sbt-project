@@ -1,5 +1,5 @@
 <projectDescription>
-  <name>Hello</name>
+  <name>scala-simple-sbt-project</name>
   <buildSpec>
     <buildCommand>
       <name>org.scala-ide.sdt.core.scalabuilder</name>
